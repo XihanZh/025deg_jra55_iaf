@@ -9,6 +9,7 @@ gust_min              =  0.0
 ncar_ocean_flux       = .true.
 ncar_ocean_flux_orig  = .false.
 raoult_sat_vap        = .false.
+absolute_wind         = .true.
 /
 &ocean_rough_nml
 roughness_mom   = 5.8e-5
